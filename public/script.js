@@ -29,7 +29,7 @@ class header extends HTMLElement {
                     </a>
                     </div>
                 <div class="titulo">
-                    <h4>asdasd</h4>
+                    <h4>POKEMON</h4>
                 </div>
             </header >
         `;
