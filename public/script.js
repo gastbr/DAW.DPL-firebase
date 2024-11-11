@@ -24,7 +24,7 @@ class header extends HTMLElement {
         this.outerHTML = /*html*/`
             <header>
                     <div class="logo">
-                    <a href="main.html">
+                    <a href="index.html">
                     <img src="./media/logo.png" alt="Logo de Pokémon" class="logo">
                     </a>
                     </div>
