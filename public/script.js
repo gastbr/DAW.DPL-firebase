@@ -25,7 +25,7 @@ class header extends HTMLElement {
             <header>
                     <div class="logo">
                     <a href="main.html">
-                    <img src="../media/logo.png" alt="Logo de Pokémon" class="logo">
+                    <img src="./media/logo.png" alt="Logo de Pokémon" class="logo">
                     </a>
                     </div>
                 <div class="titulo">
@@ -41,8 +41,8 @@ class aside extends HTMLElement {
         super();
         this.outerHTML = /*html*/ `
         <aside>
-            <img src="../media/logoAdd.png" alt="Logo del Campeonato Mundial de Pokémon" style="width: 100%;" />
-            <h2>¡Campeonato Mundial de Pokémon!</h2>
+            <img src="./media/logoAdd.png" alt="Logo del Campeonato Mundial de Pokémon" style="width: 100%;" />
+            <h3>¡Campeonato Mundial de Pokémon!</h3>
             <p>Únete a los mejores entrenadores de todo el mundo en la competencia más emocionante del año. ¡Demuestra tu habilidad, estrategia y amor por Pokémon en este evento épico!</p>
             <p>Clica en este <a href="https://unite.pokemon.com/es-es/championship/"> enlace</a> o escanea el QR para más información y detalles de inscripción:</p>
             <img src="../media/qr.png" alt="Código QR" style="width: 100%;" />
